@@ -1,0 +1,13 @@
+h1{
+    color: rgba(0, 0, 0, 0.932);
+    display: flex ;
+    justify-content:center ;
+}
+body{
+    background-color: rgba(37, 34, 34, 0.932);
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
